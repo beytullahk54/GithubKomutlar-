@@ -18,9 +18,9 @@ Github windows için cmd inidiriyoruz (Git for windows)
 
 Config ayarları
 
-* git config - -global user.name “isim,soyisim”
+* git config --global user.name “isim,soyisim”
 
-* git config - -global user.email “email adresi”
+* git config --global user.email “email adresi”
 
 Ssh Oluşturuyoruz
 
@@ -30,7 +30,7 @@ Ssh Oluşturuyoruz
 
 Ssh kodumuzu kopyalıyoruz.
 
-* clip <~ / .ssh / id_rsa.pub
+* clip < ~/.ssh/id_rsa.pub
 
 Git hesabımıza SSH kodumuzu entegre etme
 
