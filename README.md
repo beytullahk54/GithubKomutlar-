@@ -30,7 +30,7 @@ Ssh Oluşturuyoruz
 
 Ssh kodumuzu kopyalıyoruz.
 
-* clip < ~/.ssh/id_rsa.pub
+* 
 
 Git hesabımıza SSH kodumuzu entegre etme
 
@@ -57,7 +57,7 @@ Sunucuya gönderirken bu dosyalar için değişiklik notu,
 
 Sunucuya gönder
 
-*git push origin master //Master bizim anadalımız 
+*git push -u origin master //Master bizim anadalımız 
 
 Kaynaklar
 
