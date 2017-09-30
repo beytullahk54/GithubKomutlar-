@@ -68,3 +68,5 @@ https://github.com/COMU/bohca/wiki/G%C4%B0T-KULLANIM-KLAVUZU
 https://aliozgur.gitbooks.io/git101/git_arac_ve_servisleri/kaynakca_ve_referanslar.html
 
 https://aliozgur.gitbooks.io/git101/
+
+Beytullah Kahraman
