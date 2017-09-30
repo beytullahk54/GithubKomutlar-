@@ -1,7 +1,7 @@
 Git oluşturma
 --------
 
-Her klasör için ayrı key oluşturmak gerekir //Henüz aynı keyi kullanmayı çözemedim.
+
 
 
 Depo Oluşturuyoruz
