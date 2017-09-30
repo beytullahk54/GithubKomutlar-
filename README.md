@@ -30,7 +30,7 @@ Ssh Oluşturuyoruz
 
 Ssh kodumuzu kopyalıyoruz.
 
-* 
+* clip < ~/.ssh/id_rsa.pub
 
 Git hesabımıza SSH kodumuzu entegre etme
 
@@ -53,11 +53,11 @@ Yerel klasörde yeni dosya ekleme veya güncelleme
 
 Sunucuya gönderirken bu dosyalar için değişiklik notu,
 
-*git commit -m "Değişiklik Notu"
+* git commit -m "Değişiklik Notu"
 
 Sunucuya gönder
 
-*git push -u origin master //Master bizim anadalımız 
+* git push -u origin master //Master bizim anadalımız 
 
 Kaynaklar
 
